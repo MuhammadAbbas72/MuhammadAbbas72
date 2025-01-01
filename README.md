@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammadAbbas72
+- 👋 Hi, I’m @MuhammadAbbas
 - 👀 I’m interested in software testing, quality assurance processes, automation tools, and ensuring seamless user experiences.
 - 🌱 I’m currently learning advanced automation frameworks, performance testing, and AI in quality assurance.
 - 💞️ I’m looking to collaborate on QA automation projects, improving software development lifecycles, and creating robust testing strategies with development teams.
